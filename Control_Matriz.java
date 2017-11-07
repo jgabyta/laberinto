@@ -20,7 +20,7 @@ public class Control_Matriz {
     
     public static void Control_Filas(int comprobador) throws Errores{
         if (comprobador != 11) {
-            throw new Errores("El numero de filas es Menor o mayor a 11");
+            throw new Errores("El numero  filas es Menor o mayor a 11");
             
         }
         
